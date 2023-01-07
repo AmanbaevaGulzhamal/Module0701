@@ -29,6 +29,7 @@ def count_attempts(game_core_v3) -> int:
     """Average amount of attempts to guess the number
     Args:
         game_core_v3 (_type_): guessing function
+        
     Returns:
         int: average number of attempts
     """
